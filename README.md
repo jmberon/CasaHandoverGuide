@@ -8,6 +8,7 @@ We're thrilled to have you staying in our apartment while we're away. We've put 
 * Quiet Hours: Please respect our neighbors by keeping noise to a minimum after 9PM.
 * No Smoking: Our apartment is a smoke-free zone.
 * Pets: No pets allowed.
+* Mattress: To be used with the mattress protector at all times.
 * Parking: [Provide parking instructions if applicable].
 
 ## 2. Perks and Amenities
@@ -16,8 +17,9 @@ We're thrilled to have you staying in our apartment while we're away. We've put 
 - Kitchen Use: You're welcome to use any of the kitchen appliances and utensils.
 
 ## 3. Quirks and Tips
-- Temperamental Shower: The hot water in the shower takes about a minute to kick in.
+- Temperamental Shower: The hot water in the shower may take about 30 seconds to kick in sometimes.
 - Outdoor Light Switch: It’s broken but we have outdoor lightning you could use instead.
+- Fridge: It beeps at random times even thou the the door has been properly closed.
 
 ## 4. Rubbish Collection
 - Schedule: The bins are collected every Monday morning. Please take the bins out to the curb on Sunday night.
@@ -37,11 +39,11 @@ We're thrilled to have you staying in our apartment while we're away. We've put 
 | Sunday, 14th January   | 🟨 |
 
 ## 5. Safety and Security
-- Alarm: The alarm code is [code].
+- Alarm: The alarm code will be shared via text message.
 - In Case of Emergency: In the event of an emergency, call police 131 444.
 
 ## 6. Local Recommendations
-- Restaurants and Cafes: Mount Hawthorn Coffee Strip is 15min walking distance.
+- Restaurants and Cafes: Mount Hawthorn Coffee Strip is at 15-min walking distance.
 - Groceries: The nearest supermarket is IGA Glendalough, a 15-minute walk away. Woolworths is cheaper and 20-min walk away.
 - Lake Monger: Walk for 25 min or ride for 10 min.
 - Scarborough Beach: 990 Bus takes you there in 15-20 min.
